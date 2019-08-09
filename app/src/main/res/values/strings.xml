@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Google Images</string>
+    <string name="label_title"><b>Title:</b> %1$s</string>
+    <string name="label_Description"><b>Description:</b> %1$s</string>
+</resources>
